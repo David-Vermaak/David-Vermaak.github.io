@@ -7,17 +7,18 @@
 
 # Main Page Setup
 
-title: John Doe's Portfolio # This is what shows up in the tab of the browser
+title: David Vermaak's Portfolio # This is what shows up in the tab of the browser
 
 
 
 # Hero Section
-name: John Doe
-headline: headline message
+name: David Vermaak
+headline: Mechanical Engineering & Computer Science
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I am an Engineering Technology graduate with a strong background in mechanical design, robotics, and software development. 
+  My expertise includes CAD modeling, rapid prototyping, and programming in Python, C++, MATLAB, and Java. 
+  I have experience developing desktop and web applications, as well as designing and manufacturing mechanical components.
+  With skills in topology optimization, automation, and information security, I am passionate about applying technology to solve engineering challenges efficiently.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
@@ -25,7 +26,7 @@ profile_image: ./assets/images/profile-image/avatar.jpeg
 
 # Link your resume
 # You can place your resume in assets/resume/{resume file.pdf} or add external link such as pdf saved in google drive 
-resume-url: https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/view?usp=sharing
+resume-url: ./assets/resume/Resume.pdf
 
 
 # Set up external links - this will show up as small icons next to your name.
