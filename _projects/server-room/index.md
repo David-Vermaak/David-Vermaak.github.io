@@ -32,3 +32,9 @@
 ### Before cable management
 {% include image-gallery.html images="IMG_20231206_162005.jpg" %}
 ### After cable management
+
+### Thoughts:
+I learned a lot while working on this project, between the structural, electrical, and thermal challenges, I felt that it really helped me grow.
+It's also very fufilling to be able to look at something physical that you helped make.
+Also it helped that prior to this I had to work right next to the servers, in the summer heat the room would go up to 85 degrees!
+Now it sits at a comfortable 75 all year round.
