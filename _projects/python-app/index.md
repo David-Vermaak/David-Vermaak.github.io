@@ -99,28 +99,28 @@ All the Command flags are at the top of the file and will be parsed automaticall
 
 ### Email Selection
 
-{% include image-gallery.html images="VTE_dark.jpg" height="400" %}
+{% include image-gallery.html images="VTE_dark.jpg" height="500" %}
 
 ### Example Data
 
-{% include image-gallery.html images="VTE_dark_example.jpg" height="400" %}
+{% include image-gallery.html images="VTE_dark_example.jpg" height="500" %}
 
 ### Information Example
 
-{% include image-gallery.html images="VTE_dark_example2.jpg" height="400" %}
+{% include image-gallery.html images="VTE_dark_example2.jpg" height="500" %}
 
 ### Text Email
 
-{% include image-gallery.html images="VTE_dark_example3.jpg" height="400" %}
+{% include image-gallery.html images="VTE_dark_example3.jpg" height="500" %}
 
 ### HTML Email
 
-{% include image-gallery.html images="VTE_dark_example4.jpg" height="400" %}
+{% include image-gallery.html images="VTE_dark_example4.jpg" height="500" %}
 
 ### Convert Word Doc
 
-{% include image-gallery.html images="WordDocConverter.png" height="400" %}
+{% include image-gallery.html images="WordDocConverter.png" height="500" %}
 
 ### Sanitize Text
 
-{% include image-gallery.html images="SanitizeText.png" height="400" %}
+{% include image-gallery.html images="SanitizeText.png" height="500" %}
