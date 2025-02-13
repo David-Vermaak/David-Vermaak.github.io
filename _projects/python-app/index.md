@@ -1,5 +1,5 @@
 ---
-layout: post
+  layout: post
   title: Python Desktop App
   description:  I created this app to streamline my own workflow. Over the course of the next 2 years it grew into a multifunctional productivity app.
   skills: 
@@ -9,7 +9,7 @@ layout: post
     - Automation
   main-image: /eft_emails_dark.jpg
 ---
-## EFT Emails
+
 
 ### Program Information
 
