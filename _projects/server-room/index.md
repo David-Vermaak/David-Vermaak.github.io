@@ -1,4 +1,4 @@
- ---
+---
   layout: post
   title: Server Room Construction
   description:  I helped design and build a server room for 6 full size servers.
@@ -9,7 +9,7 @@
     - HVAC
     - 3D Printing
   main-image: ./IMG_20221217_165541.jpg
-  ---
+---
 
 ## Project Photos
 
