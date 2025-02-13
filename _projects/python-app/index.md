@@ -13,7 +13,7 @@
 
 ### Program Information
 
-Welcome to the EFT Email Template Generator
+Welcome to the Email Template Generator
 How to Use:
 
 1.) Select a Template: Choose a template from the dropdown
@@ -91,36 +91,36 @@ All the Command flags are at the top of the file and will be parsed automaticall
 
 ### Menu in dark mode
 
-{% include image-gallery.html images="eft_emails_dark.jpg" %}
+{% include image-gallery.html images="eft_emails_dark.jpg" height="400" %}
 
 ### Menu in light mode
 
-{% include image-gallery.html images="eft_emails_light.jpg" %}
+{% include image-gallery.html images="eft_emails_light.jpg" height="400" %}
 
 ### Email Selection
 
-{% include image-gallery.html images="VTE_dark.jpg" %}
+{% include image-gallery.html images="VTE_dark.jpg" height="400" %}
 
 ### Example Data
 
-{% include image-gallery.html images="VTE_dark_example.jpg" %}
+{% include image-gallery.html images="VTE_dark_example.jpg" height="400" %}
 
 ### Information Example
 
-{% include image-gallery.html images="VTE_dark_example2.jpg" %}
+{% include image-gallery.html images="VTE_dark_example2.jpg" height="400" %}
 
 ### Text Email
 
-{% include image-gallery.html images="VTE_dark_example3.jpg" %}
+{% include image-gallery.html images="VTE_dark_example3.jpg" height="400" %}
 
 ### HTML Email
 
-{% include image-gallery.html images="VTE_dark_example4.jpg" %}
+{% include image-gallery.html images="VTE_dark_example4.jpg" height="400" %}
 
 ### Convert Word Doc
 
-{% include image-gallery.html images="WordDocConverter.png" %}
+{% include image-gallery.html images="WordDocConverter.png" height="400" %}
 
 ### Sanitize Text
 
-{% include image-gallery.html images="SanitizeText.png" %}
+{% include image-gallery.html images="SanitizeText.png" height="400" %}
