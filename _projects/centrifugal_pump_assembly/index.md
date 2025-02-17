@@ -1,13 +1,11 @@
 ---
   layout: post
-  title: Server Room Construction
-  description:  I helped design and build a server room for 6 full size servers.
+  title: Centrifugal Pump Assembly
+  description:  Designed a mount for a centrifugal pump asssembly
   skills: 
     - CAD
-    - Structural
-    - Electrical
-    - HVAC
-    - 3D Printing
+    - FEA
+    - Mechanical
   main-image: /main.jpg
 ---
 
