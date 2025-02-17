@@ -12,9 +12,9 @@
 ## Project Photos  
 
 ### Pump Mount
-{% include image-gallery.html images="Struct.png" %}  
+{% include image-gallery.html images="Struct.jpeg" %}  
 ### Bill of Materials
-{% include image-gallery.html images="BOM.jpg" %}  
+{% include image-gallery.html images="BOM.jpeg" %}  
 ### Exploded Assembly
 {% include image-gallery.html images="Assembly.jpeg" %}  
 ### Final Assembly
