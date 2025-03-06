@@ -17,11 +17,11 @@ After looking around for some inspiration I found several existing projects in S
 For those of you who are lucky enough to have never used SCAD, allow me to explain, in simple terms, what it is. Imagine a programmer that wanted to do some CAD, but instead of just using a normal parametric modelling software they decided to create a 100% code based CAD program.
 
 #### Here is what that looks like:
-{% include image-gallery.html images="Code.png" %}
+{% include image-gallery.html images="Code.png" height="800" %}
 
 Despite the learning curve it has some really nice features. My favorite is the ability to allow the user to customize your designs by setting min/max values, selectble options, and editable fields:
 
-{% include image-gallery.html images="Code_2.png" %}
+{% include image-gallery.html images="Code_2.png" height="800"%}
 
 
 ### STL File
