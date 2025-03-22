@@ -1,12 +1,12 @@
 ---
   layout: post
-  title: Customizable Business Cards
-  description:  I designed 3D Printable Business Cards.
+  title: Mass Optimization Project
+  description:  For my Senior design project we mass optimized an airline seat using Altair Inspire
   skills: 
-    - 3D Printing
-    - SCAD
-    - Programming
-  main-image: /card.png
+    - CAD
+    - Optimization
+    - Mesh Modeling
+  main-image: /Optimized_Component.png
 ---
 
 
