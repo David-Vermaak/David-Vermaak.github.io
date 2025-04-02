@@ -6,7 +6,7 @@
     - CAD
     - Optimization
     - Mesh Modeling
-  main-image: /Optimized_Component.png
+  main-image: /ISO_Optimized_Component.png
 ---
 
 ## Intro
@@ -19,22 +19,22 @@
 
 3D model of the original seat frame before optimization.
 
-{% include image-gallery.html images="Solid_part.png" height="400" %}
+{% include image-gallery.html images="Solid_part.png" height="800" %}
 
 ### Optimization Results
 
 Topology optimization results from Altair Inspire.
 
-{% include image-gallery.html images="Optimized_Component.png" height="400" %}
+{% include image-gallery.html images="Optimized_Component.png" height="800" %}
 
 ### Optimized Design
 
 Refined design incorporating optimization results.
 
-{% include image-gallery.html images="ISO_Optimized_Component.png" height="400" %}
+{% include image-gallery.html images="ISO_Optimized_Component.png" height="800" %}
 
 ### Refined Design
 
 Refined design with machining in mind.
 
-{% include image-gallery.html images="03.png" height="400" %}
+{% include image-gallery.html images="03.png" height="800" %}
