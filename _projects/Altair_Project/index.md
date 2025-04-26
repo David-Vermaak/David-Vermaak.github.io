@@ -52,4 +52,4 @@ Topology optimization results from Altair Inspire.
 {% include image-gallery.html images="Picture1.png" height="800" %}  
 
 ### CO2 Emissions Reduction  
-{% include image-gallery.html images="Picture1.png" height="800" %}  
+{% include image-gallery.html images="Picture2.png" height="800" %}  
