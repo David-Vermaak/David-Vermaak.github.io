@@ -27,14 +27,19 @@ Topology optimization results from Altair Inspire.
 
 {% include image-gallery.html images="Optimized_Component.png" height="800" %}
 
-### Optimized Design
 
-Refined design incorporating optimization results.
+### Design Iterations
+Front Leg Evolution
+{% include image-gallery.html images="Front Leg Evolution.png" height="800" %}
+Rear Leg Evolution
+{% include image-gallery.html images="Rear Leg Evolution.png" height="800" %}
 
-{% include image-gallery.html images="ISO_Optimized_Component.png" height="800" %}
 
-### Refined Design
+### Refined Design Render
 
-Refined design with machining in mind.
+{% include image-gallery.html images="Optimized Frame_01.png" height="800" %}
 
-{% include image-gallery.html images="03.png" height="800" %}
+
+### Old vs New Design
+
+{% include image-gallery.html images="Old vs New.png.png" height="800" %}
