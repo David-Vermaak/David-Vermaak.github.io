@@ -42,15 +42,15 @@ You can then use the Print button at the bottom left to generate a PDF report of
 ## Complex Tool Examples:
 
 ### Gear Rate:
-{% include image-gallery.html images="Gear Rate.png" %}
+{% include image-gallery.html images="Gear Rate.png" height="600" %}
 
 Complex multi-step iterative design tool for reverse engineering gear sets.
 
 ### Shaft Stress Calculator:
-{% include image-gallery.html images="Shaft_Calc.png" %}
+{% include image-gallery.html images="Shaft_Calc.png" height="600" %}
 
 Interactive GUI for gearbox shaft design.
 
 ### Built-in Help:
 
-{% include image-gallery.html images="Help.png" %}
+{% include image-gallery.html images="Help.png" height="800" %}
